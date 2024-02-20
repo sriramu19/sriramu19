@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm U Sriram</h1>
-- 🔭 I’m currently pursuing Bachelors Degree in **Computer Science**
+- 🔭 I’m currently pursuing Bachelors Degree in Computer Science
 
-- 🌱 I’m currently learning **Data Analytics using Python**
+- 🌱 I’m currently learning Data Analytics using Python
 
-- 📫 How to reach me **sriramu2718@gmail.com**
+- 📫 How to reach me sriramu2718@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
